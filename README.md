@@ -6,7 +6,8 @@ Detailed explanation of this code can be found in the lecture video (will be upl
 
 1. Creating a spatial canvas
 2. Adding GUI widgets
-3. Processing user input
+3. Attaching spatial menus to tracked objects
+4. Processing ray cast input
 
 ## Participation Exercise
 
