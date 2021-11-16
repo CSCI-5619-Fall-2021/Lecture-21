@@ -1,6 +1,6 @@
 # Lecture 21: Spatial Menus
 
-Detailed explanation of this code can be found in the lecture video (will be uploaded after class).
+Detailed explanation of this code can be found in the [lecture video](https://mediaspace.umn.edu/media/t/1_le2m5hso).
 
 ## Topics
 
