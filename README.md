@@ -1,21 +1,16 @@
-# Lecture 16: Virtual Locomotion
+# Lecture 21: Spatial Menus
 
-Detailed explanation of this code can be found in the [lecture video](https://mediaspace.umn.edu/media/t/1_bbaavnwm).
+Detailed explanation of this code can be found in the lecture video (will be uploaded after class).
 
 ## Topics
 
-1. Transferring physics velocity to released objects
-2. Writing a custom virtual locomotion script
-3. Continuous turns
-4. Snap turns
+1. Creating a spatial canvas
+2. Adding GUI widgets
+3. Processing user input
 
 ## Participation Exercise
 
 The participation exercise for this class is on Canvas.
-
-## Acknowledgments
-
-The scene uses assets from the [Playground Low Poly](https://assetstore.unity.com/packages/3d/environments/playground-low-poly-191533) package from the Unity Asset Store.
 
 ## License
 
